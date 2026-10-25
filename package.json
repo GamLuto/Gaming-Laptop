@@ -1,11 +1,10 @@
 {
   "name": "gaming-laptop-finder",
   "version": "1.0.0",
-  "description": "Comparateur de PC portables gaming (neuf, occasion, reconditionné) - aucune dépendance",
-  "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "test": "node test.js"
+    "start": "node server.js"
   },
-  "engines": { "node": ">=18" }
+  "engines": {
+    "node": ">=18"
+  }
 }
